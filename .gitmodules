@@ -1,3 +1,6 @@
 [submodule "introRL"]
 	path = introRL
 	url = https://github.com/zhoubolei/introRL.git
+[submodule "ierg6130-assignment"]
+	path = ierg6130-assignment
+	url = https://github.com/cuhkrlcourse/ierg6130-assignment
