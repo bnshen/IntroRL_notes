@@ -1,2 +1,5 @@
 ierg6130-assignment
 introRL
+*.pyc
+__pycache__
+.*
